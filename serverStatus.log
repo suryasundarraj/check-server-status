@@ -1,0 +1,19 @@
+Checking all Server's latest Status 
+Tue 01/31/2023 20:25:25.95 
+ 
+user1@192.168.1.100 
+ 
+ssh: connect to host 192.168.1.100 port 22: Connection timed out
+ 
+ 
+user2@192.168.2.120 
+ 
+ssh: connect to host 192.168.2.120 port 22: Connection timed out
+ 
+ 
+user3@192.12.34.43 
+ 
+ssh: connect to host 192.12.34.43 port 22: Connection timed out
+ 
+ 
+End of the Script
