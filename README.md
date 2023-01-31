@@ -1,3 +1,9 @@
 # check-server-status
 
-up
+To run the code on Windows Machine 
+
+.\getServerStatus.bat
+
+or 
+
+D
