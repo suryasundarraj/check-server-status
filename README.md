@@ -1,1 +1,3 @@
 # check-server-status
+
+up
