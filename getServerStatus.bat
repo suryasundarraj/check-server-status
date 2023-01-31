@@ -2,7 +2,7 @@
 del serverStatus.log
 echo |set /p="Started..."
 echo:
-echo|set /p="Checking all Server's latest Status" > serverStatus.log
+echo|set /p="Checking Server's Uptime to ensure reachablity..." > serverStatus.log
 echo: >> serverStatus.log
 echo %DATE% %TIME% >> serverStatus.log
 echo: >> serverStatus.log

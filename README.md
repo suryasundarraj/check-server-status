@@ -1,6 +1,6 @@
-# BAT Script to get all the server status 
+# BAT Script to get all the server uptime and date 
 
-Step 1: Update the servers.txt file with the servers needed to be tested (Ensure all the servers are mapped with public key)
+Step 1: Update the servers.txt file with the servers needed to be tested (Ensure all the servers are mapped with public key on the host system)
 
 Format: 
 user_name@ip_address
